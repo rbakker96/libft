@@ -1,11 +1,13 @@
 Libft - Your very first own library
 
+
 Project goal -
 
 Re-code a set of the libc functions, as defined in their man. 
 Your functions will need to present the same prototype and behaviors as the originals. 
 Your functions’ names must be prefixed by “ft_”. For instance strlen becomes ft_strlen.
 As a bonus I also worked on list functions.
+
 
 Technical considerations
 
@@ -17,6 +19,7 @@ Technical considerations
 • Submit all files in the root of your repository.
 
 • You must use the command ar to create your librairy, using the command libtool is forbidden.
+
 
 Used resources
 
