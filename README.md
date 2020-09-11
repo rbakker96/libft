@@ -1,7 +1,7 @@
 Libft - Your very first own library
 
 
----------------------       Project goal       ---------------------
+---------------------       Project summary       ---------------------
 
 Re-code a set of the libc functions, as defined in their man. 
 Your functions will need to present the same prototype and behaviors as the originals. 
