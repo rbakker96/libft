@@ -31,7 +31,7 @@ This project intended to re-codes a set of the libc functions, as defined in the
 // main.c
 
 #include "libft.h"
-#include "stdio.h"
+#include <stdio.h>
 
 int	main(void)
 {
