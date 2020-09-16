@@ -8,7 +8,7 @@
 ---
 
 ### Project summary
-> 1th ring Codam project
+> 0th ring Codam project
 
 This project intended to re-codes a set of the libc functions, as defined in their man. The functions will need to present the same prototype and behaviors as the originals. The functions’ names must be prefixed by “ft_”. For instance strlen becomes ft_strlen. As a bonus linked list functions are added to the library.
 
