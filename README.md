@@ -46,8 +46,8 @@ int	main(void)
 > Run the following commands in the terminal
 
 ```shell
-$ git clone https://github.com/rbakker96/libft.git
-$ cd <folder name>
+$ git clone https://github.com/rbakker96/libft.git libft
+$ cd libft
 $ make
 $ gcc -Wall -Wextra -Werror main.c libft.a
 $ ./a.out
