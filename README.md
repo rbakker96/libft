@@ -58,4 +58,4 @@ $ ./a.out
 ### Used resources
 > Most noteworthy resources used during this project
 
-- Man pages of recreated functions
+- Man pages of re-coded functions
