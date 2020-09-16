@@ -37,7 +37,7 @@ int	main(void)
 {
 	int length;
 
-	length = ft_strlen("Dit is een test string");
+	length = ft_strlen("This is a test string");
 	printf("Length = %d\n", length);
 
 	return (0);
