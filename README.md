@@ -25,7 +25,7 @@ This project intended to re-codes a set of the libc functions, as defined in the
 ---
 
 ### Usage
-> Create a main to use the library tools, for example
+> Create a main to use the library functions, for example
 
 ```javascript
 // main.c
